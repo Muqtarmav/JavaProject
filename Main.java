@@ -24,5 +24,6 @@ public class Main {
              System.out.print("=".repeat(50));
              System.out.println();
             System.out.println(newCart);
+
     }
 }
